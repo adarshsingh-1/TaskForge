@@ -1,12 +1,26 @@
-# React + Vite
+# 🛠️ TaskForge – React To-Do Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TaskForge is a sleek and responsive To-Do list manager built with **React**, **Context API**, and **Tailwind CSS**. It allows users to add, edit, delete, and mark tasks as completed, with all data persistently stored using `localStorage`.
 
-Currently, two official plugins are available:
+![TaskForge UI Screenshot](https://via.placeholder.com/800x400?text=TaskForge+Screenshot) <!-- Replace with <img width="1566" alt="Screenshot 2025-06-20 at 02 01 41" src="https://github.com/user-attachments/assets/fae0d14f-f22f-4c48-9e7c-5409d013193d" />
+actual screenshot URL -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add, update, delete tasks
+- 🔄 Toggle task completion
+- 💾 Persistent storage using `localStorage`
+- 🌐 Global state management via React Context API
+- 💡 Clean, responsive UI built with Tailwind CSS
+- 🧱 Modular component-based architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Tech Stack
+
+- React (with Hooks)
+- Context API
+- Tailwind CSS
+- Vite
+- localStorage
+
+## 📂 Project Structure
+
